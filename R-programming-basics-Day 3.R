@@ -3,5 +3,11 @@ myweight=80
 x=(myheight*myweight)
 myheight
 myweight
-myage=27
-myage
+a=8
+b=9
+print(a<b)
+print(a+8)
+X=(7+9-4/3)
+print(X)
+T && F
+Print
